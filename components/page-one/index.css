@@ -1,5 +1,6 @@
 .page1-bg {
-    background-image: url("../../assets/background/parallax-bg.gif");
+    /* background-image: url("../../assets/background/parallax-bg.gif"); */
+    background-image: url("../../assets/background/small-bg.png");
 }
 
 .mint-btn {

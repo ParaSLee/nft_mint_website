@@ -5,7 +5,6 @@ import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { useAccount } from "wagmi";
 import { useEffect } from "react";
 import { Carousel } from "antd";
-// import { Carousel } from "@arco-design/web-react";
 import MintBox, { MINT_TYPE } from "./mint-box";
 import "./index.css";
 
